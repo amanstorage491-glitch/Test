@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+Sitemap: https://nexuscreative.systems/sitemap.xml
+
+Host: https://nexuscreative.systems
